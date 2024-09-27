@@ -12,7 +12,7 @@
 - Staying updated with the latest developments in blockchain technology and security practices.
 - Collaborating with a team of experts to ensure the highest standards of security in Web3 projects.
 
-## 🌱 Also, provide services. 
+## 🌱 Core skills. 
 
 - Auding
 - Testing

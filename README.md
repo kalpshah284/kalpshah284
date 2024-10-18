@@ -4,7 +4,7 @@
 -  Passionate for Smart Contracts, Web3 Security, Solidity, Rust and Javascript, typescript..
 
   
-## 💞️ Currently working as a Web3 Security Researcher @QuillAudits.
+## 💞️ Currently working as a Web3 Security Researcher [@QuillAudits](https://x.com/quillaudits_ai)
   
 - At QuillAudits, I focus on securing blockchain projects by conducting thorough audits and assessments. My role involves:
 - Identifying potential security vulnerabilities in smart contracts and decentralized applications.
